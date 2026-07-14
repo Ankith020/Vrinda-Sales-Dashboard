@@ -61,11 +61,15 @@ An interactive Microsoft Excel dashboard developed to analyze Vrinda Store's ann
 
 •	Annual Sales Overview
 •	Customer Demographics Analysis
+•	Sales Channel Performance 
+•	Regional Sales Analysis 
+•	Order Status Dashboard 
 
 # Screenshots
 
+https://github.com/Ankith020/Vrinda-Sales-Dashboard/blob/main/Screenshot%20(66).png
 
 
-Sales Channel Performance
+
 Regional Sales Analysis
 Order Status Dashboard
