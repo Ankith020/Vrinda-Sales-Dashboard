@@ -71,5 +71,4 @@ https://github.com/Ankith020/Vrinda-Sales-Dashboard/blob/main/Screenshot%20(66).
 
 
 
-Regional Sales Analysis
-Order Status Dashboard
+
